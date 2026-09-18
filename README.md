@@ -11,7 +11,7 @@ split/delete/fade, sample-rate-aware import, and export driven by the
 project's actual length. It is a genuinely useful DAW foundation, not a
 finished professional one — see
 [Known limitations](#known-limitations-be-technically-honest) below before
-you rely on it for real work.
+you rely on it for real work..
 
 ## Why these technologies
 
